@@ -1,0 +1,6 @@
+train: C:\Users\bertu\Vehicle_Detection\Data\images\train
+val: C:\Users\bertu\Vehicle_Detection\Data\images\valid
+test: C:\Users\bertu\Vehicle_Detection\Data\images\test
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
