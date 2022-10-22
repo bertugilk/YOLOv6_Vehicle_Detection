@@ -14,7 +14,7 @@ python tools/train.py --batch 16 --conf configs/yolov6s_finetune.py --data-path 
 
 ## Usage
 
-!python tools/infer.py --weights weights/best_ckpt.pt --source test_images/{}.jpg --yaml dataset.yaml --device 0
+python tools/infer.py --weights weights/best_ckpt.pt --source test_images/{}.jpg --yaml dataset.yaml --device 0
 
 
 ![c0a105b4fe3a7c55_jpg rf 28745179cd0f87dc9cae886872f95263](https://user-images.githubusercontent.com/48621020/197339801-289350a7-6724-41d2-9a42-39f993e10039.jpg)
