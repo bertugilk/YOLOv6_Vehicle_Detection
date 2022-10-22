@@ -17,4 +17,4 @@ python tools/train.py --batch 16 --conf configs/yolov6s_finetune.py --data-path 
 python tools/infer.py --weights weights/best_ckpt.pt --source test_images/{}.jpg --yaml dataset.yaml --device 0
 
 
-![c0a105b4fe3a7c55_jpg rf 28745179cd0f87dc9cae886872f95263](https://user-images.githubusercontent.com/48621020/197339801-289350a7-6724-41d2-9a42-39f993e10039.jpg)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48621020/197341663-22da2f3d-8a5e-41d6-979b-5477762fe16e.gif)
